@@ -1,4 +1,4 @@
-#Object Activity
+<!-- #Object Activity
 
 Remember to...
 * Fork this repo
@@ -19,5 +19,9 @@ For your README.md, please include the following headings with the following con
  * Reason why you're doing this.
  * Reason why you chose to model this team as an object.
 * Output
- * Example of the output produced by your application.
+ * Example of the output produced by your application. -->
 
+#Object Activity
+
+##I am completing this assignment to reinforce my understanding of objects
+##I chose the Auburn Tigers because they are the best football program in the country
